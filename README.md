@@ -68,6 +68,7 @@ My name is Stanislav and I am a web developer with six years of experience.
     <td>
       🟠 Next
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -77,6 +78,7 @@ My name is Stanislav and I am a web developer with six years of experience.
     <td>
       🟠 Nuxt
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -86,6 +88,7 @@ My name is Stanislav and I am a web developer with six years of experience.
     <td>
       🟢 Vue
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -95,6 +98,7 @@ My name is Stanislav and I am a web developer with six years of experience.
     <td>
       🟢 Flutter
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -102,5 +106,6 @@ My name is Stanislav and I am a web developer with six years of experience.
     <td>
       🟠 Redux
     </td>
+    <td></td>
   </tr>
 </table>
