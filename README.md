@@ -1,16 +1,106 @@
-### Hi there 👋
+## Hello, World! 🎉
+My name is Stanislav and I am a web developer with six years of experience.
 
-<!--
-**7y1o/7y1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>
+      🧾 The syntax I know
+    </th>
+    <th>
+      🔌 The web frameworks I know
+    </th>
+    <th>
+      What I'll start learning
+    </th>
+  </tr>
+  <tr>
+    <td>
+      🟢 JavaScript
+    </td>
+    <td>
+      🟢 Svelte
+    </td>
+    <td>
+      🔴 Angular
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟢 TypeScript
+    </td>
+    <td>
+      🟢 SvelteKit
+    </td>
+    <td>
+      🔴 Tensorflow.js
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟢 PHP
+    </td>
+    <td>
+      🟢 Sapper
+    </td>
+    <td>
+      🔴 C
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟠 Python
+    </td>
+    <td>
+      🟠 React
+    </td>
+    <td>
+      🔴 Ionic
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟠 C++
+    </td>
+    <td>
+      🟠 Next
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟢 Java
+    </td>
+    <td>
+      🟠 Nuxt
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟢 Dart
+    </td>
+    <td>
+      🟢 Vue
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      🟠 JPHP
+    </td>
+    <td>
+      🟢 Flutter
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>
+      🟠 Redux
+    </td>
+  </tr>
+</table>
