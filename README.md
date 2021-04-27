@@ -21,7 +21,7 @@ My name is Stanislav and I am a web developer with six years of experience.
       🟢 Svelte
     </td>
     <td>
-      🔴 Angular
+      🟠 WebAssembly
     </td>
   </tr>
   
