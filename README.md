@@ -19,5 +19,7 @@ My name is Stanislav and I am a web developer with six years of experience.
 
 ### Legend
 🟢 With the least googling
+
 🟠 With frequent googling
+
 🔴 Don't know / Googling almost everything
