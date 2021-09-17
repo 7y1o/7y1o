@@ -9,9 +9,9 @@ My name is Stanislav and I am a web developer with six years of experience.
 | 🟢 Java          | 🟢 Flutter      |                 | 
 | 🟢 Dart          | 🟢 Vite         |                 |
 | 🟢 SQL           | 🟢 Rollup       |                 |
-| 🟠 Python        | 🟢 Webpack      |                 |
+| 🟢 JPHP          | 🟢 Webpack      |                 |
 | 🟠 C++           | 🟠 React        |                 |
-| 🟠 JPHP          | 🟠 Next         |                 |
+| 🟠 Python        | 🟠 Next         |                 |
 |                  | 🟠 Nuxt         |                 |
 |                  | 🟠 Redux        |                 |
 |                  | 🟠 WebAssembly  |                 |
