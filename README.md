@@ -10,11 +10,11 @@ My name is Stanislav and I am a web developer with six years of experience.
 | 🟢 Dart          | 🟢 Vite         |                 |
 | 🟢 SQL           | 🟢 Rollup       |                 |
 | 🟢 JPHP          | 🟢 Webpack      |                 |
-| 🟠 C++           | 🟠 React        |                 |
+| 🟠 C++           | 🟢 WebAssembly  |                 |
 | 🟠 Python        | 🟠 Next         |                 |
 |                  | 🟠 Nuxt         |                 |
 |                  | 🟠 Redux        |                 |
-|                  | 🟠 WebAssembly  |                 |
+|                  | 🟠 React        |                 |
 |                  | 🟠 Ionic        |                 |
 
 ### Legend
