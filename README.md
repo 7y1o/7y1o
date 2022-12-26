@@ -1,22 +1,6 @@
 ## Hello, World! 🎉
 My name is Stanislav and I am a web developer with six years of experience.
 
-| Languages I know | Web tech I know | What I'll start |
-| ---------------- | --------------- | --------------- |
-| 🟢 JavaScript    | 🟢 SvelteKit    | 🔴 C            |
-| 🟢 TypeScript    | 🟢 Svelte       | 🔴 Tensorflow   |
-| 🟢 PHP           | 🟢 Vue          | 🔴 Angular      |
-| 🟢 Java          | 🟢 Flutter      |                 | 
-| 🟢 Dart          | 🟢 Vite         |                 |
-| 🟢 SQL           | 🟢 Rollup       |                 |
-| 🟢 JPHP          | 🟢 Webpack      |                 |
-| 🟠 C++           | 🟢 WebAssembly  |                 |
-| 🟠 Python        | 🟠 Next         |                 |
-|                  | 🟠 Nuxt         |                 |
-|                  | 🟠 Redux        |                 |
-|                  | 🟠 React        |                 |
-|                  | 🟠 Ionic        |                 |
-
 | Direction | Skills |
 | --------- | ------ |
 | Languages | [![Rust](https://img.shields.io/badge/Rust-d46e0f?style=for-the-badge)](https://) [![JS](https://img.shields.io/badge/JS-2ea44f?style=for-the-badge)](https://) [![TS](https://img.shields.io/badge/TS-2ea44f?style=for-the-badge)](https://) [![PHP](https://img.shields.io/badge/PHP-2ea44f?style=for-the-badge)](https://) [![Dart](https://img.shields.io/badge/Dart-2ea44f?style=for-the-badge)](https://) [![Java](https://img.shields.io/badge/Java-d46e0f?style=for-the-badge)](https://) [![C#](https://img.shields.io/badge/C%23-d46e0f?style=for-the-badge)](https://) [![C++](https://img.shields.io/badge/C%2B%2B-d46e0f?style=for-the-badge)](https://) [![C](https://img.shields.io/badge/C-d46e0f?style=for-the-badge)](https://) [![Assembly](https://img.shields.io/badge/Assembly-bf3617?style=for-the-badge)](https://) [![Python](https://img.shields.io/badge/Python-bf3617?style=for-the-badge)](https://) |
